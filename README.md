@@ -1,17 +1,12 @@
 # PyChi
 基于 Python 的Hackerchi远程管理工具：PyChi 远程管理系统
-> 基于 Python 的远程管理工具：PyChi 远程管理系统
-> 
+![image](https://github.com/user-attachments/assets/b31c0104-f8f2-446c-8eaa-38fe53d4c7e0)
+![image](https://github.com/user-attachments/assets/2346dc5d-cff4-4a51-83dc-991f24c90d3b)
 
 ## 引言
 
 在现代 IT 环境中，远程管理工具是开发者和运维人员必不可少的利器。本文将为大家介绍一个基于 Python 构建的多功能远程管理工具 PyChi，它能够让你轻松地对远程客户端进行管理操作，包括文件管理、系统命令执行、截图、录音等功能。
 
----
-
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/dcfc0b10-f3f6-4bfe-a7f8-895b46badeca/436a4122-9418-4950-99e1-61072d565cb4/image.png)
-
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/dcfc0b10-f3f6-4bfe-a7f8-895b46badeca/af170d5b-a0ed-4570-962b-2159a0248fdc/image.png)
 
 ## 软件简介
 
